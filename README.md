@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This repository contains the source code for a Bucket List Application.A simple web based project that allows users to create and manage personalized bucket list. The proect is built using HTML, CSS, and JavaScript.
